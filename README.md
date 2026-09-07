@@ -10,6 +10,8 @@
 
 </div>
 
+> 🔗 **Live · 在线体验** — <https://evidex-cloud.github.io/droplet-labs-rwa-path/>
+
 ---
 
 ## English
